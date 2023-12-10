@@ -4,6 +4,7 @@ import CardProduct, {CardProduct2} from "./CardProduct";
 import Header from "./Header";
 
 
+
 const Home = () =>{
   //const searchParams = useLocation();
   // console.log(searchParams.state.name);

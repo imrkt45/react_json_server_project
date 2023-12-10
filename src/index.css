@@ -11,3 +11,156 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card {
+  border: 1px solid black;
+  box-shadow: 0 0 5px black;
+  width: 300px;
+  margin: 10px;
+
+}
+
+.card-img img {
+  width: 299px;
+}
+
+.card-title,
+.description {
+  margin: 10px;
+}
+
+.card-title {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.description {
+  color: gray;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.HomeCards {
+  width: 100%;
+}
+
+.HomeCards>.card {
+  display: inline-block;
+}
+
+
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+
+
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  background-color: #444;
+  padding: 10px;
+  border-radius: 17px;
+
+}
+
+input[type="text"] {
+  padding: 5px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 3px;
+  width: 500px;
+}
+
+.microphone {
+  margin-left: 10px;
+  border-radius: 10px;
+  background-color: #444;
+  color: #fff;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.search_icon {
+  background-color: #444;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 10px;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.bell_icon {
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 23px 15px;
+  border-radius: 20px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  position: relative;
+}
+
+.notification-badge {
+  font-size: 0.6rem;
+  font-weight: 800;
+  color: white;
+  position: absolute;
+  background-color: red;
+  border-radius: 2px;
+}
+
+.signinpage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+}
+
+.mainpage {
+
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.centered-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin: 20px;
+}
+
+.buttons {
+  margin-top: 10px;
+}
+
+.firstbutton {
+  margin-right: 18px;
+}
+
+.secondbutton {
+  margin-left: 50px;
+}
+
+.uprpage {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.buttons{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}

@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "name": "raj",
+      "email": "raj@gmail.com",
+      "password": "1234",
+      "id": "1698842263869"
+    },
+    {
+      "name": "rajkumar",
+      "email": "raj@gmail.com",
+      "password": "1234",
+      "id": "1698843781242"
+    },
+    {
+      "name": "raj",
+      "email": "raj@gmail.com",
+      "password": "12345",
+      "id": "1698844848530"
+    },
+    {
+      "name": "raj",
+      "email": "raj@gmail.com",
+      "password": "1234567",
+      "id": "1698845188802"
+    },
+    {
+      "name": "raj",
+      "email": "raj@gmail.com",
+      "password": "1234",
+      "id": "1698845273161"
+    },
+    {
+      "name": "rajkumar ",
+      "email": "raj@gmail.com",
+      "password": "12345",
+      "id": "1698846350836"
+    }
+  ]
+}

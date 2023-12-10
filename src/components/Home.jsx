@@ -2,7 +2,6 @@ import React from "react";
 import Card from "./Card";
 import CardProduct, {CardProduct2} from "./CardProduct";
 import Header from "./Header";
-import { useLocation, useParams } from "react-router-dom";
 
 
 const Home = () =>{
